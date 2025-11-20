@@ -20,6 +20,8 @@ The system collects metrics from IoT devices via SNMP, converts them using SNMP 
 🏗 Project Architecture
 IoT Device → SNMP Agent → SNMP Exporter → Prometheus → Dashboard / Alerts
 
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/1c44e448-8e03-4a77-b7e9-c745ba2fedec" />
+
 📂 Repository Structure
 📁 IOT-MONITORING/
 │── docker-compose.yml
