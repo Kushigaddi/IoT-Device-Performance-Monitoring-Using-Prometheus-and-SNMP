@@ -28,6 +28,7 @@ IoT Device → SNMP Agent → SNMP Exporter → Prometheus → Dashboard / Alert
 │── snmp.yml
 └── README.md
 
+
 ⚙️ Technologies Used
 Tool	Purpose
 Prometheus	Metrics scraping and storage
